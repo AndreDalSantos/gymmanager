@@ -18,7 +18,7 @@ O **Gym Manager** é uma aplicação de gerenciamento de academia onde são cada
 
 ---
 
-## 🔨 Tecnologias utilizadas
+## 🚀 Tecnologias utilizadas
 
 - NodeJS
 - JavaScript
@@ -32,7 +32,7 @@ O **Gym Manager** é uma aplicação de gerenciamento de academia onde são cada
 
 ```bash
     # Clonar o projeto do repositório no github
-    $ git clone https://github.com/AndreDalSantos/gymmanager
+    $ git clone https://github.com/AndreDalSantos/gymmanager.git
 
     # Acessar o diretório do projeto
     $ cd gymmanager
@@ -43,3 +43,7 @@ O **Gym Manager** é uma aplicação de gerenciamento de academia onde são cada
     # Iniciar o projeto
     $ npm start
 ```
+
+### Observações
+ - Criar um banco de dados no Postgres conforme código do arquivo 'Database.sql'
+ - No arquivo 'config/db.js' estão as configurações do banco de dados usado neste projeto.
