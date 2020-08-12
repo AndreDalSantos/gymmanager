@@ -5,5 +5,5 @@ module.exports = new Pool({
     password: 'postgres',
     host: 'localhost',
     port: 5432,
-    database: 'gymmanager3'
+    database: 'gymmanager'
 })
