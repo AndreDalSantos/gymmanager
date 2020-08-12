@@ -1,7 +1,10 @@
 <h1 align="center">
     Gym Manager - Launchbase - Rocketseat 
 </h1>
-<img src="./public/Gym Manager.gif" align="center">
+
+<div align="center">
+    <img src="./public/Gym Manager.gif" >
+</div>
 
 ---
 
